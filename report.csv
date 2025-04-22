@@ -1,5 +1,0 @@
-Time (s),Emotion,Confidence Level,value1,value2
-0,Surprise,neutral,1,1
-5,Surprise,neutral,0,0
-10,Fear,underconfident,-1,-1
-15,Surprise,neutral,0,1
